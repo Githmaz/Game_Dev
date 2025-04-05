@@ -1,0 +1,33 @@
+# Build files
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+*.idb
+
+# Visual Studio generated
+.vscode/
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+*.ipch
+*.log
+
+# Build output folders
+Debug/
+Release/
+x64/
+x86/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup or temp
+*.tmp
+*.bak
+*.old
+*.swp
