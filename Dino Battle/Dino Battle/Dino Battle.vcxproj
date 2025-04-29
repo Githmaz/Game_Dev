@@ -127,15 +127,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ConsoleUI.cpp" />
     <ClCompile Include="DinoManager.cpp" />
     <ClCompile Include="DinoManager.h" />
     <ClCompile Include="Dinosaur.cpp" />
+    <ClCompile Include="Game.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="Menu.cpp" />
     <ClCompile Include="UserInput.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Dinosaur.h" />
+    <ClInclude Include="ConsoleUI.h" />
     <ClInclude Include="Game.h" />
     <ClInclude Include="Menu.h" />
     <ClInclude Include="Rarity.h" />

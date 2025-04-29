@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "F:\\github\\Game_Dev\\Dino Battle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FE3B2B9-DE50-4530-B189-18D119D64DA2}|Dino Battle\\Dino Battle.vcxproj|F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\DinoManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FE3B2B9-DE50-4530-B189-18D119D64DA2}|Dino Battle\\Dino Battle.vcxproj|solutionrelative:Dino Battle\\DinoManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7FE3B2B9-DE50-4530-B189-18D119D64DA2}|Dino Battle\\Dino Battle.vcxproj|F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\ConsoleUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FE3B2B9-DE50-4530-B189-18D119D64DA2}|Dino Battle\\Dino Battle.vcxproj|solutionrelative:Dino Battle\\ConsoleUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3B2B9-DE50-4530-B189-18D119D64DA2}|Dino Battle\\Dino Battle.vcxproj|F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\ConsoleUi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FE3B2B9-DE50-4530-B189-18D119D64DA2}|Dino Battle\\Dino Battle.vcxproj|solutionrelative:Dino Battle\\ConsoleUi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FE3B2B9-DE50-4530-B189-18D119D64DA2}|Dino Battle\\Dino Battle.vcxproj|F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -15,20 +19,24 @@
       "RelativeMoniker": "D:0:0:{7FE3B2B9-DE50-4530-B189-18D119D64DA2}|Dino Battle\\Dino Battle.vcxproj|solutionrelative:Dino Battle\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FE3B2B9-DE50-4530-B189-18D119D64DA2}|Dino Battle\\Dino Battle.vcxproj|F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\DinoManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FE3B2B9-DE50-4530-B189-18D119D64DA2}|Dino Battle\\Dino Battle.vcxproj|solutionrelative:Dino Battle\\DinoManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7FE3B2B9-DE50-4530-B189-18D119D64DA2}|Dino Battle\\Dino Battle.vcxproj|F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FE3B2B9-DE50-4530-B189-18D119D64DA2}|Dino Battle\\Dino Battle.vcxproj|solutionrelative:Dino Battle\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3B2B9-DE50-4530-B189-18D119D64DA2}|Dino Battle\\Dino Battle.vcxproj|F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FE3B2B9-DE50-4530-B189-18D119D64DA2}|Dino Battle\\Dino Battle.vcxproj|solutionrelative:Dino Battle\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FE3B2B9-DE50-4530-B189-18D119D64DA2}|Dino Battle\\Dino Battle.vcxproj|F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\Dinosaur.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7FE3B2B9-DE50-4530-B189-18D119D64DA2}|Dino Battle\\Dino Battle.vcxproj|solutionrelative:Dino Battle\\Dinosaur.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FE3B2B9-DE50-4530-B189-18D119D64DA2}|Dino Battle\\Dino Battle.vcxproj|F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FE3B2B9-DE50-4530-B189-18D119D64DA2}|Dino Battle\\Dino Battle.vcxproj|solutionrelative:Dino Battle\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7FE3B2B9-DE50-4530-B189-18D119D64DA2}|Dino Battle\\Dino Battle.vcxproj|F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\DinoManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FE3B2B9-DE50-4530-B189-18D119D64DA2}|Dino Battle\\Dino Battle.vcxproj|solutionrelative:Dino Battle\\DinoManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FE3B2B9-DE50-4530-B189-18D119D64DA2}|Dino Battle\\Dino Battle.vcxproj|F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\Rarity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FE3B2B9-DE50-4530-B189-18D119D64DA2}|Dino Battle\\Dino Battle.vcxproj|solutionrelative:Dino Battle\\Rarity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7FE3B2B9-DE50-4530-B189-18D119D64DA2}|Dino Battle\\Dino Battle.vcxproj|F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FE3B2B9-DE50-4530-B189-18D119D64DA2}|Dino Battle\\Dino Battle.vcxproj|solutionrelative:Dino Battle\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FE3B2B9-DE50-4530-B189-18D119D64DA2}|Dino Battle\\Dino Battle.vcxproj|F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\UserInput.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -39,8 +47,16 @@
       "RelativeMoniker": "D:0:0:{7FE3B2B9-DE50-4530-B189-18D119D64DA2}|Dino Battle\\Dino Battle.vcxproj|solutionrelative:Dino Battle\\Dinosaur.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7FE3B2B9-DE50-4530-B189-18D119D64DA2}|Dino Battle\\Dino Battle.vcxproj|F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\DinoManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FE3B2B9-DE50-4530-B189-18D119D64DA2}|Dino Battle\\Dino Battle.vcxproj|solutionrelative:Dino Battle\\DinoManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7FE3B2B9-DE50-4530-B189-18D119D64DA2}|Dino Battle\\Dino Battle.vcxproj|F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\UserInput.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7FE3B2B9-DE50-4530-B189-18D119D64DA2}|Dino Battle\\Dino Battle.vcxproj|solutionrelative:Dino Battle\\UserInput.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE3B2B9-DE50-4530-B189-18D119D64DA2}|Dino Battle\\Dino Battle.vcxproj|F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\Rarity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FE3B2B9-DE50-4530-B189-18D119D64DA2}|Dino Battle\\Dino Battle.vcxproj|solutionrelative:Dino Battle\\Rarity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,59 +66,166 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleUI.cpp",
+              "DocumentMoniker": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\ConsoleUI.cpp",
+              "RelativeDocumentMoniker": "Dino Battle\\ConsoleUI.cpp",
+              "ToolTip": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\ConsoleUI.cpp*",
+              "RelativeToolTip": "Dino Battle\\ConsoleUI.cpp*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-22T06:51:18.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleUI.h",
+              "DocumentMoniker": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\ConsoleUI.h",
+              "RelativeDocumentMoniker": "Dino Battle\\ConsoleUI.h",
+              "ToolTip": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\ConsoleUI.h",
+              "RelativeToolTip": "Dino Battle\\ConsoleUI.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-22T05:47:18.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\Game.cpp",
+              "RelativeDocumentMoniker": "Dino Battle\\Game.cpp",
+              "ToolTip": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\Game.cpp",
+              "RelativeToolTip": "Dino Battle\\Game.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-21T11:55:17.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Game.h",
+              "DocumentMoniker": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\Game.h",
+              "RelativeDocumentMoniker": "Dino Battle\\Game.h",
+              "ToolTip": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\Game.h",
+              "RelativeToolTip": "Dino Battle\\Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-12T18:02:10.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Dinosaur.cpp",
               "DocumentMoniker": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\Dinosaur.cpp",
               "RelativeDocumentMoniker": "Dino Battle\\Dinosaur.cpp",
               "ToolTip": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\Dinosaur.cpp",
               "RelativeToolTip": "Dino Battle\\Dinosaur.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-05T03:16:19.683Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DinoManager.cpp",
-              "DocumentMoniker": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\DinoManager.cpp",
-              "RelativeDocumentMoniker": "Dino Battle\\DinoManager.cpp",
-              "ToolTip": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\DinoManager.cpp",
-              "RelativeToolTip": "Dino Battle\\DinoManager.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-05T03:16:54.121Z"
+              "WhenOpened": "2025-04-05T03:16:19.683Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Rarity.h",
-              "DocumentMoniker": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\Rarity.h",
-              "RelativeDocumentMoniker": "Dino Battle\\Rarity.h",
-              "ToolTip": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\Rarity.h",
-              "RelativeToolTip": "Dino Battle\\Rarity.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-05T03:21:15.357Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Dinosaur.h",
               "DocumentMoniker": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\Dinosaur.h",
               "RelativeDocumentMoniker": "Dino Battle\\Dinosaur.h",
               "ToolTip": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\Dinosaur.h",
               "RelativeToolTip": "Dino Battle\\Dinosaur.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-05T03:20:19.638Z"
+              "WhenOpened": "2025-04-05T03:20:19.638Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
+              "Title": "Menu.h",
+              "DocumentMoniker": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\Menu.h",
+              "RelativeDocumentMoniker": "Dino Battle\\Menu.h",
+              "ToolTip": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\Menu.h",
+              "RelativeToolTip": "Dino Battle\\Menu.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-05T03:19:24.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Rarity.h",
+              "DocumentMoniker": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\Rarity.h",
+              "RelativeDocumentMoniker": "Dino Battle\\Rarity.h",
+              "ToolTip": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\Rarity.h",
+              "RelativeToolTip": "Dino Battle\\Rarity.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-05T03:21:15.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DinoManager.cpp",
+              "DocumentMoniker": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\DinoManager.cpp",
+              "RelativeDocumentMoniker": "Dino Battle\\DinoManager.cpp",
+              "ToolTip": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\DinoManager.cpp",
+              "RelativeToolTip": "Dino Battle\\DinoManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-05T03:16:54.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserInput.cpp",
+              "DocumentMoniker": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\UserInput.cpp",
+              "RelativeDocumentMoniker": "Dino Battle\\UserInput.cpp",
+              "ToolTip": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\UserInput.cpp",
+              "RelativeToolTip": "Dino Battle\\UserInput.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-05T03:16:40.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cpp",
+              "DocumentMoniker": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\Menu.cpp",
+              "RelativeDocumentMoniker": "Dino Battle\\Menu.cpp",
+              "ToolTip": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\Menu.cpp",
+              "RelativeToolTip": "Dino Battle\\Menu.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-05T03:15:55.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\Main.cpp",
+              "RelativeDocumentMoniker": "Dino Battle\\Main.cpp",
+              "ToolTip": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\Main.cpp",
+              "RelativeToolTip": "Dino Battle\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-05T03:15:45.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "UserInput.h",
               "DocumentMoniker": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\UserInput.h",
               "RelativeDocumentMoniker": "Dino Battle\\UserInput.h",
@@ -110,65 +233,18 @@
               "RelativeToolTip": "Dino Battle\\UserInput.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-05T03:21:38.408Z"
+              "WhenOpened": "2025-04-05T03:21:38.408Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Menu.h",
-              "DocumentMoniker": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\Menu.h",
-              "RelativeDocumentMoniker": "Dino Battle\\Menu.h",
-              "ToolTip": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\Menu.h",
-              "RelativeToolTip": "Dino Battle\\Menu.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-05T03:19:24.831Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Menu.cpp",
-              "DocumentMoniker": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\Menu.cpp",
-              "RelativeDocumentMoniker": "Dino Battle\\Menu.cpp",
-              "ToolTip": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\Menu.cpp",
-              "RelativeToolTip": "Dino Battle\\Menu.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-05T03:15:55.667Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserInput.cpp",
-              "DocumentMoniker": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\UserInput.cpp",
-              "RelativeDocumentMoniker": "Dino Battle\\UserInput.cpp",
-              "ToolTip": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\UserInput.cpp",
-              "RelativeToolTip": "Dino Battle\\UserInput.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-05T03:16:40.639Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Main.cpp",
-              "DocumentMoniker": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\Main.cpp",
-              "RelativeDocumentMoniker": "Dino Battle\\Main.cpp",
-              "ToolTip": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\Main.cpp",
-              "RelativeToolTip": "Dino Battle\\Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-05T03:15:45.051Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "DinoManager.h",
               "DocumentMoniker": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\DinoManager.h",
               "RelativeDocumentMoniker": "Dino Battle\\DinoManager.h",
               "ToolTip": "F:\\github\\Game_Dev\\Dino Battle\\Dino Battle\\DinoManager.h",
               "RelativeToolTip": "Dino Battle\\DinoManager.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-05T03:20:42.257Z",
               "EditorCaption": ""

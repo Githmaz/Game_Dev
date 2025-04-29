@@ -24,5 +24,4 @@ public:
 	void takeDamage(int damage);
 	void heal(int amount);
 	bool isAlive();
-
 };

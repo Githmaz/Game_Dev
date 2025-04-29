@@ -1,9 +1,12 @@
 #include <iostream>
 #include "Dinosaur.h"
 #include "Menu.h"
+#include "ConsoleUI.h"
+#include <Windows.h>
 
 int main() {
-	std::cout << "Hello, Dino Battle Arena!" << std::endl;
+	ConsoleUI ui;         
+	ui.displayWelcomeMessage();
 	Menu menu;
 	menu.showDinoMenu();
 
