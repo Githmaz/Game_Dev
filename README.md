@@ -18,4 +18,5 @@ This repo contains small projects and experiments while learning C++ and Unreal 
 
 ## 📌 Notes
 - Code is beginner-friendly and for learning only  
-- Expect simple, experimental features
+- Expect simple, experimental features  
+- Learning alongside [Unreal Engine Developer Course on Udemy](https://www.udemy.com/course/unrealcourse/learn/lecture/31776754#overview)
